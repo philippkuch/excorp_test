@@ -43,8 +43,8 @@ def get_pricempire_free_price(**context):
         "app_id": 730,
         "sources": "buff163,skins",
         "currency": "USD",
-        "avg": True,
-        "median": True,
+        "avg": "true",
+        "median": "true",
         "inflation_threshold": -1
     }
 
